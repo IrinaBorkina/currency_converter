@@ -10,3 +10,7 @@ Hello Node JS
 1 BYN = 169.072 KZT
 1 BYN = 169.072 KZT
 100 EUR = 300.502 BYN
+subtraction: 5USD - 3BYN = 3.859 USD || 10.152 BYN
+addition: 15USD + 3EUR = 18.503 USD || 15.845 EUR
+division: 35.5GBP / 3EUR = 13.119 GBP || 13.118 EUR
+multiplication: 100RUB * 12PLN = 24075.5 RUB || 59.808 PLN
